@@ -10,7 +10,8 @@ li{
 }
 
 a{
-  font-style: normal;
+  text-decoration: none;
+  color: grey;
 }
 
 .octocat{
