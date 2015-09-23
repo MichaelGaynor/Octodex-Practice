@@ -1,9 +1,23 @@
+
+li{
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+  color: grey;
+}
+
+img {
+  max-width: 250px;
+}
 .octodex{
 
 }
 
 .octocat{
-
+  float: left;
+  max-width: 250px;
 }
 
 .image-footer{
@@ -18,6 +32,7 @@
 
 }
 
-.authors{
-
+.authors img{
+max-width: 20px;
+float: right;
 }
