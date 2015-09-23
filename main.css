@@ -28,12 +28,12 @@ a{
   height: 25px;
   font-size: small;
   text-align: right;
-  color: grey;
+  color: #cccccc;
   border-bottom: 1px solid #cccccc;
 }
 
 .image-number{
-  color: grey;
+  color: #cccccc;
   font-size: small;
   float: left;
   margin-left: 5px;
