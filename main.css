@@ -9,6 +9,10 @@ li{
   list-style-type: none;
 }
 
+a{
+  font-style: normal;
+}
+
 .octocat{
   float: left;
 }
@@ -21,19 +25,19 @@ li{
   float: right;
   width: 232px;
   height: 25px;
-  font-size: x-small;
+  font-size: small;
   text-align: right;
-  border-bottom: 1px solid #cccccc;
   color: grey;
+  border-bottom: 1px solid #cccccc;
 }
 
 .image-number{
   color: grey;
-  font-size: x-small;
+  font-size: small;
   float: left;
   margin-left: 5px;
-  border-bottom: 1px solid #cccccc;
   height: 25px;
+  border-bottom: 1px solid #cccccc;
 }
 
 .authors{
