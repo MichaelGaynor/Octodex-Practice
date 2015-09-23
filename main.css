@@ -1,15 +1,8 @@
-body{
-}
 
-span{
-  display: inline-block;  
-}
 
 img{
   max-width: 20px;
   float: right;
-  display: inline-block;
-  border-bottom: 2px solid grey;
 }
 
 li{
@@ -20,24 +13,29 @@ li{
   float: left;
 }
 
+.image-footer{
+}
+
 .image-caption{
   margin-right: 5px;
   float: right;
   width: 200px;
-  height: 18px;
-  border-bottom: 2px solid grey;
-  display: inline-block;
+  height: 20px;
+  font-size: x-small;
 }
 
 .image-number{
   color: grey;
   float: left;
   margin-left: 5px;
-  border-bottom: 2px solid grey;
+}
+
+.authors{
+  float: right;
 }
 
 .cat{
   max-width: 250px;
-  border: 2px solid grey;
+  border: 1px solid #cccccc;
   margin: 5px;
 }
