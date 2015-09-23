@@ -1,0 +1,40 @@
+body{
+}
+
+span{
+  display: inline-block;  
+}
+
+img{
+  max-width: 20px;
+  float: right;
+  display: inline-block;
+}
+
+li{
+  list-style-type: none;
+}
+
+.octocat{
+  float: left;
+}
+
+.image-caption{
+  float: right;
+  margin-right: 5px;
+  border-bottom: 2px solid grey;
+  display: inline-block;
+}
+
+.image-number{
+  color: grey;
+  float: left;
+  margin-left: 5px;
+  border-bottom: 2px solid grey;
+}
+
+.cat{
+  max-width: 250px;
+  border: 2px solid grey;
+  margin: 5px;
+}
