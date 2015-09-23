@@ -24,6 +24,7 @@ li{
   font-size: x-small;
   text-align: right;
   border-bottom: 1px solid #cccccc;
+  color: grey;
 }
 
 .image-number{
