@@ -9,6 +9,7 @@ img{
   max-width: 20px;
   float: right;
   display: inline-block;
+  border-bottom: 2px solid grey;
 }
 
 li{
@@ -20,8 +21,10 @@ li{
 }
 
 .image-caption{
-  float: right;
   margin-right: 5px;
+  float: right;
+  width: 200px;
+  height: 18px;
   border-bottom: 2px solid grey;
   display: inline-block;
 }
