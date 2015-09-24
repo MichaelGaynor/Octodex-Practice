@@ -26,11 +26,6 @@ img {
 }
 
 .image-footer{
-  width: 0;
-height: 0;
-border-style: solid;
-border-width: 5px 5px 0 5px;
-border-color: #cccccc transparent transparent transparent;
 }
 
 .image-number{
@@ -40,6 +35,13 @@ border-color: #cccccc transparent transparent transparent;
 .image-caption{
 }
 .authors{
+    position: absolute;
+  width: 0;
+height: 0;
+border-style: solid;
+border-width: 5px 5px 0 5px;
+border-color: #cccccc transparent transparent transparent;
+
 }
 
 .authors img{
