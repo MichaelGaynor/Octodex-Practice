@@ -34,8 +34,9 @@ img {
 
 .image-caption{
 }
+
 .authors{
-    position: absolute;
+      position: absolute;
   width: 0;
 height: 0;
 border-style: solid;

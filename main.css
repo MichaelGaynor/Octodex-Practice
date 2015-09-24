@@ -48,5 +48,6 @@ a{
 .cat{
   max-width: 250px;
   border: 1px solid #cccccc;
+  border-radius: 3px;
   margin: 5px;
 }
